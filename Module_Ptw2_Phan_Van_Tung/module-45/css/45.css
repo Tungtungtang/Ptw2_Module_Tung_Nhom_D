@@ -1,0 +1,19 @@
+.type-45 {
+  margin: 80px 0;
+  max-width: 400px; }
+  .type-45 .title {
+    margin: 20px 0; }
+  .type-45 .btn-menu {
+    text-decoration: none; }
+  .type-45 .menu {
+    padding: 5px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    background: white; }
+    .type-45 .menu .menu-home {
+      color: #3eaafd !important; }
+    .type-45 .menu a {
+      color: black; }
+      .type-45 .menu a:hover {
+        color: #3eaafd;
+        transition: 0.4s; }

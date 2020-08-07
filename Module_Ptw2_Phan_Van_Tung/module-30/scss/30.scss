@@ -1,0 +1,56 @@
+$color_icon_shopping: #9a30d8;
+$color_xanh: #3eaafd;
+$color_boder_bot: #757575;
+.type-30{
+    .container-top{
+        margin-top: 30px;
+        padding-bottom: 30px;
+        .shopping{
+           
+          
+            a{
+                color: $color_icon_shopping;
+                text-decoration: none;
+            }
+        }
+        .title{
+            font-weight: 999;
+        }
+        .price{
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            top: 50;
+            right: 100px;
+        }
+        .icon-dolar{
+            color: $color_xanh;
+        }
+    }
+    .menu-bot{
+        border-top: 1px solid #dee2e6;
+        .container-bot{
+            padding: 20px 0;
+            
+            ul{
+                li{
+                    padding: 0 15px;
+                    list-style-type: none;
+                    float: left; 
+                    a{
+                        text-decoration: none;
+                        color: #242424;
+                        &:hover{
+                            color: $color_xanh;
+                            transition: all .35s;
+                        }
+                    }
+                    
+                }
+            }
+    }
+    
+    }
+        
+      
+}

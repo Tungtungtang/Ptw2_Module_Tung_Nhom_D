@@ -1,0 +1,31 @@
+$color_xanh:#3eaafd;
+$color_boder:#ddd;
+
+.type-45{
+	margin: 80px 0;
+	max-width: 400px;
+	.title{
+		margin: 20px 0;
+	}
+	
+	.btn-menu{
+		text-decoration: none;
+	}
+	.menu{
+		padding: 5px 10px;
+		margin: 10px 0;
+		border: 1px solid $color_boder;
+		background: white;
+		.menu-home{
+			color: $color_xanh !important;
+		}
+		a{
+			color: black;
+			&:hover{
+				color: $color_xanh;
+				transition: 0.4s;
+			}
+		}
+	}
+	
+}

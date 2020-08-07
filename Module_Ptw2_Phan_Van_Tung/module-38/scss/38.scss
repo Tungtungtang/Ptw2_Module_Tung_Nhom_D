@@ -1,0 +1,41 @@
+$color_type: #757575;
+$colo_name:#3eaafd;
+$colo_member: #000;
+.type-38{
+    margin:50px ;
+    padding: 75px 20px 20px;
+    position: relative;
+    font-size: 1rem;
+    max-width: 25%;
+    line-height: 1.8;
+    border: 1px solid #dee2e6;
+    color:$color_type;
+    
+    .img_face{
+        text-align: center;
+        overflow: hidden;
+        position: absolute;
+        top: -50px;
+        left: 50%;
+        margin-left: -50px;
+        z-index: 1;
+        img{
+            vertical-align: top;
+            max-width: 100%;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            border: 0;
+            vertical-align: top;
+        }
+    }
+    .title{
+        color: $colo_member;
+        font-weight: bold;
+    }
+    .name{
+        color: $colo_name;
+        font-weight: bold;
+    }
+    
+}

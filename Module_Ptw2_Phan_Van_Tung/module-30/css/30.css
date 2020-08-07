@@ -1,0 +1,30 @@
+.type-30 .container-top {
+  margin-top: 30px;
+  padding-bottom: 30px; }
+  .type-30 .container-top .shopping a {
+    color: #9a30d8;
+    text-decoration: none; }
+  .type-30 .container-top .title {
+    font-weight: 999; }
+  .type-30 .container-top .price {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 50;
+    right: 100px; }
+  .type-30 .container-top .icon-dolar {
+    color: #3eaafd; }
+.type-30 .menu-bot {
+  border-top: 1px solid #dee2e6; }
+  .type-30 .menu-bot .container-bot {
+    padding: 20px 0; }
+    .type-30 .menu-bot .container-bot ul li {
+      padding: 0 15px;
+      list-style-type: none;
+      float: left; }
+      .type-30 .menu-bot .container-bot ul li a {
+        text-decoration: none;
+        color: #242424; }
+        .type-30 .menu-bot .container-bot ul li a:hover {
+          color: #3eaafd;
+          transition: all 0.35s; }

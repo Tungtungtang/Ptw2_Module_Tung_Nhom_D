@@ -1,0 +1,31 @@
+.type-38 {
+  margin: 50px;
+  padding: 75px 20px 20px;
+  position: relative;
+  font-size: 1rem;
+  max-width: 25%;
+  line-height: 1.8;
+  border: 1px solid #dee2e6;
+  color: #757575; }
+  .type-38 .img_face {
+    text-align: center;
+    overflow: hidden;
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    margin-left: -50px;
+    z-index: 1; }
+    .type-38 .img_face img {
+      vertical-align: top;
+      max-width: 100%;
+      border-radius: 50%;
+      width: 100px;
+      height: 100px;
+      border: 0;
+      vertical-align: top; }
+  .type-38 .title {
+    color: #000;
+    font-weight: bold; }
+  .type-38 .name {
+    color: #3eaafd;
+    font-weight: bold; }

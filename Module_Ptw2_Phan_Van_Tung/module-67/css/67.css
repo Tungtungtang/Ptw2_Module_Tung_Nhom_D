@@ -1,0 +1,34 @@
+.type-67 {
+  margin: 50px 0; }
+  .type-67 .title-module {
+    text-align: center;
+    margin: 20px auto; }
+    .type-67 .title-module .title_top {
+      color: blue; }
+    .type-67 .title-module .title_small {
+      color: #242424; }
+  .type-67 .swiper-wrapper {
+    line-height: 1.8;
+    cursor: pointer;
+    height: 260px; }
+    .type-67 .swiper-wrapper .play_icon {
+      text-decoration: none;
+      color: black; }
+      .type-67 .swiper-wrapper .play_icon:hover {
+        color: blue; }
+    .type-67 .swiper-wrapper .contents_swiper {
+      padding: 10px 0;
+      color: #242424;
+      font-size: 1em; }
+    .type-67 .swiper-wrapper .swiper-slide {
+      padding: 20px;
+      border: 1px solid #757576;
+      border-radius: 5px; }
+  .type-67 .swiper-pagination {
+    margin-bottom: -15px; }
+    .type-67 .swiper-pagination span:focus {
+      outline: 0; }
+    .type-67 .swiper-pagination .swiper-pagination-bullet {
+      width: 15px;
+      height: 5px;
+      border-radius: 50px; }

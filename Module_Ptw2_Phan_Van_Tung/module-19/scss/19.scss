@@ -1,0 +1,33 @@
+.type-19{
+  margin: 50px 0;
+  text-align: center;
+  .title-module{
+      margin: 50px auto;
+      max-width: 680px;
+      font-size: 30px;
+      font-weight: 600;
+  }
+  .swiper-container{
+      cursor: pointer;
+      width: 680px;
+      .slide{
+          max-width: 250px;
+      }
+      .text-swiper{
+          color: black;
+          font-size: 1em;
+          margin-top: 20px;
+          font-weight: 500;
+          &:hover{
+              color:blue;
+              transition: all 0.35s;
+          }
+      }
+  }
+  img{
+      max-width: 100%;
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+  }
+}

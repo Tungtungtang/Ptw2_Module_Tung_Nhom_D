@@ -1,0 +1,20 @@
+.type-31{
+	margin: 50px;
+	max-width: 60%;
+	.content-module{
+		border: 1px solid rgba(0,0,0,.06);
+		.content-title{
+			padding-left: 25px;
+			border-bottom: 1px solid rgba(0,0,0,.06);
+			.title{
+				padding-left: 8px;
+				line-height: 3em;
+				font-size:20px;
+			}
+		}
+		.content{
+			color: #757575;
+			padding: 15px;
+		}
+	}
+}

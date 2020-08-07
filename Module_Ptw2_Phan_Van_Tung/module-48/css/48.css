@@ -1,0 +1,21 @@
+.module-48 {
+  margin: 30px; }
+  .module-48 .nav-fill {
+    text-align: center;
+    justify-content: center;
+    border-bottom: 1px solid #dee2e6; }
+    .module-48 .nav-fill .nav-item {
+      max-width: 90px; }
+      .module-48 .nav-fill .nav-item .all {
+        color: blue; }
+  .module-48 .row-module {
+    margin-top: 20px;
+    margin-bottom: 35px; }
+    .module-48 .row-module .img {
+      cursor: pointer;
+      width: 250px; }
+  .module-48 a {
+    color: black; }
+    .module-48 a:hover {
+      color: #a8642a;
+      text-decoration: none; }

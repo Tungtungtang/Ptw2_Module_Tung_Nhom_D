@@ -1,0 +1,32 @@
+$colorHover: #a8642a;
+$width-img: 250px;
+.module-48{
+    margin:30px;
+    .nav-fill{
+      text-align: center;
+      justify-content: center;
+      border-bottom: 1px solid #dee2e6;
+      .nav-item{
+        max-width: 90px;
+        .all{
+          color: blue;
+        }
+      }
+      
+    }
+    .row-module{
+     margin-top:20px;
+     margin-bottom: 35px;
+      .img {
+        cursor: pointer;
+        width: $width-img;
+        }  
+    }
+    a{
+      color: black;
+      &:hover{
+        color: $colorHover;
+        text-decoration: none;
+      }
+    }
+}

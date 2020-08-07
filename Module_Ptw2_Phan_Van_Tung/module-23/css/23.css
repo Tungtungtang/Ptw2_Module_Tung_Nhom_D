@@ -1,0 +1,25 @@
+.type-23 {
+  margin: 50px 0; }
+  .type-23 .swiper-container .swiper-wrapper .swiper-slide {
+    cursor: pointer;
+    width: 307px !important;
+    margin-right: 0 !important; }
+    .type-23 .swiper-container .swiper-wrapper .swiper-slide .content-slide {
+      position: relative; }
+      .type-23 .swiper-container .swiper-wrapper .swiper-slide .content-slide .nl-contents-left {
+        line-height: 1;
+        color: white;
+        position: absolute;
+        bottom: 0px;
+        left: 15px; }
+        .type-23 .swiper-container .swiper-wrapper .swiper-slide .content-slide .nl-contents-left span {
+          padding-left: 8px; }
+      .type-23 .swiper-container .swiper-wrapper .swiper-slide .content-slide a {
+        text-decoration: none;
+        color: white; }
+        .type-23 .swiper-container .swiper-wrapper .swiper-slide .content-slide a:hover {
+          color: #3eaafd;
+          transition: all 0.35s; }
+      .type-23 .swiper-container .swiper-wrapper .swiper-slide .content-slide p {
+        font-size: 0.875rem;
+        font-weight: 400; }

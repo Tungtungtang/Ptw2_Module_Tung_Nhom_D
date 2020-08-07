@@ -1,0 +1,68 @@
+$color_hover:#3eaafd;
+.type-16{
+	margin: 20px;
+    img{
+            border-radius:1.5%;
+        }
+    .title-module{
+        text-align: center;
+    }
+	.item-left{
+        padding: 3px;
+		position: relative;
+			.nl-item-image-left{
+				position: relative;
+				img{
+            		width: 100%;
+                	cursor: pointer;
+				}
+				.nl-contents-left{
+					color: white;
+					position: absolute;
+					bottom: 0px;
+					left:15px;
+					   span{
+						   padding-left: 8px;
+					   }
+				   }
+				   a{
+					text-decoration: none;
+					color: white;
+					&:hover{
+						color:$color_hover;
+					}
+				} 
+				
+			}
+            
+	}
+	.item-right{
+		padding: 3px;
+		position: relative;
+		.nl-item-image-right{
+			position: relative;
+            cursor: pointer;
+				img{
+            	width: 100%;
+            }
+            .nl-contents-right{
+        		color: white;
+            	position: absolute;
+            	bottom: 0px;
+            	left:15px;
+                
+            	span{
+                	padding-left: 8px;
+            	}
+        	}
+            a{
+                text-decoration: none;
+                color: white;
+                &:hover{
+                    color:$color_hover;
+                }
+            }
+
+		}
+	}
+}

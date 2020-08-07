@@ -1,0 +1,41 @@
+$color_hover_blue:#3eaafd;
+.type-23{
+    margin: 50px 0;
+    .swiper-container{
+      .swiper-wrapper{
+        .swiper-slide {
+          cursor: pointer;
+          width: 307px !important;
+          margin-right: 0   !important;
+        
+          .content-slide{
+            position: relative;
+            .nl-contents-left{
+              line-height: 1;
+              color: white;
+                position: absolute;
+                bottom: 0px;
+                left:15px;
+                   span{
+                       padding-left: 8px;
+                   }
+               }
+               a{
+                text-decoration: none;
+                color: white;
+                &:hover{
+                    color: $color_hover_blue;
+                    transition: all 0.35s;
+                   
+                }
+            }
+            p{
+                font-size: .875rem;
+                font-weight: 400;
+            }
+          }
+        }
+      }
+      
+    }
+}

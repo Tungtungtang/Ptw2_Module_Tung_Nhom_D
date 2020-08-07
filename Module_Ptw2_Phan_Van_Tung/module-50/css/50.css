@@ -1,0 +1,58 @@
+.type-50 {
+  margin: 80px 0; }
+  .type-50 .btn-content-blk {
+    text-decoration: none;
+    border: 2px solid #000;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 500; }
+    .type-50 .btn-content-blk:hover {
+      color: #3eaafd;
+      transition: 0.4s;
+      border: 2px solid #3eaafd; }
+  .type-50 .btn-mi-content {
+    font-size: 13px;
+    padding: 5px 8px;
+    border-radius: 2px solid black; }
+  .type-50 .btn-sa-content {
+    font-size: 13px;
+    padding: 10px 16px;
+    border-radius: 2px solid black; }
+  .type-50 .btn-me-content {
+    font-size: 14px;
+    padding: 15px 40px;
+    border-radius: 2px solid black; }
+  .type-50 .btn-la-content {
+    font-size: 16px;
+    padding: 20px 70px;
+    border-radius: 2px solid black; }
+  .type-50 .btn-ex-content {
+    font-size: 16px;
+    padding: 25px 80px;
+    border-radius: 2px solid black; }
+  .type-50 p {
+    margin: 40px 0; }
+  .type-50 p:nth-child(4) {
+    margin: 60px 0; }
+  .type-50 p:nth-child(5) {
+    margin-top: 70px; }
+  .type-50 .btn-content-rd {
+    text-decoration: none;
+    border: 2px solid #ec6a5c;
+    color: #ec6a5c;
+    text-transform: uppercase;
+    font-weight: 500; }
+    .type-50 .btn-content-rd:hover {
+      color: #000;
+      transition: 0.4s;
+      border: 2px solid #000; }
+  .type-50 .btn-content-bl {
+    text-decoration: none;
+    border: 2px solid #3eaafd;
+    color: #3eaafd;
+    text-transform: uppercase;
+    font-weight: 500; }
+    .type-50 .btn-content-bl:hover {
+      color: #000;
+      transition: 0.4s;
+      border: 2px solid #000; }

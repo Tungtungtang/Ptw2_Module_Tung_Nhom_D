@@ -1,0 +1,17 @@
+$color_btn:#3eaafd;
+$color_boder:#dee2e6;
+.type-69{
+    margin:50px;
+    max-width: 550px;
+    border-top:1px solid $color_boder;
+    .button-mid{
+        margin: 15px 0;
+        background: $color_btn;
+        padding: 10px 15px;
+        font-weight: bold;
+        color: white;
+        border: none;
+        border-radius: 3px;
+    }
+    button:focus {outline:0;}
+}

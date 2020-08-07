@@ -1,0 +1,47 @@
+.type-67{
+  margin: 50px 0;
+  .title-module{
+      text-align: center;
+      margin: 20px auto;
+          .title_top{
+          color: blue;
+          }
+          .title_small{
+              color: #242424; 
+          }
+      }
+  .swiper-wrapper{
+      line-height: 1.8;
+      cursor: pointer;
+      height: 260px;
+      .play_icon{
+          text-decoration: none;
+          color: black;
+          
+          &:hover{
+              color: blue;
+          }
+      }
+      .contents_swiper{
+          padding: 10px 0;
+          color: #242424;
+          font-size: 1em;
+      }
+      .swiper-slide{
+          padding: 20px;
+          border: 1px solid #757576;
+          border-radius: 5px;
+      }
+  }
+  .swiper-pagination {
+     margin-bottom: -15px;
+          span:focus {
+              outline: 0;    
+          }
+          .swiper-pagination-bullet{
+            width: 15px;
+            height: 5px;
+            border-radius: 50px;
+          }
+      }
+}

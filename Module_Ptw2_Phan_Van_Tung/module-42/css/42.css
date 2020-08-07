@@ -1,0 +1,45 @@
+.type-42 {
+  margin: 50px 0; }
+  .type-42 .title-module {
+    margin-bottom: 20px; }
+    .type-42 .row-module .nl-post-image {
+      margin-right: 0 !important;
+      flex-basis: 10%; }
+      .type-42 .row-module .nl-post-image img {
+        width: 100px;
+        height: 100px; }
+    .type-42 .row-module .post-content {
+      flex-basis: 60%;
+      width: 60%; }
+      .type-42 .row-module .post-content .nl-title {
+        margin-bottom: 5px; }
+        .type-42 .row-module .post-content .nl-title a {
+          font-size: 17px;
+          line-height: 24px;
+          font-weight: 500;
+          color: #000;
+          text-decoration: none; }
+          .type-42 .row-module .post-content .nl-title a:hover {
+            color: #3EAAFD;
+            transition: all 0.35s; }
+      .type-42 .row-module .post-content .nl-post-date {
+        color: #999999;
+        margin: 2px 0 10px; }
+        .type-42 .row-module .post-content .nl-post-date a {
+          color: #3EAAFD;
+          padding: 0;
+          display: inline-block;
+          margin-right: 5px;
+          font-size: 12px;
+          font-weight: 500;
+          text-decoration: none; }
+        .type-42 .row-module .post-content .nl-post-date span {
+          display: inline-block;
+          font-size: 13px;
+          font-weight: 400;
+          color: #999999;
+          padding-left: 5px; }
+  .type-42 ul {
+    padding-left: 0; }
+    .type-42 ul .nl-view-list-item {
+      margin: 0 0 30px 0; }
