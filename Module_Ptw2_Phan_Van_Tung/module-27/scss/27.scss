@@ -1,0 +1,50 @@
+.type-27{
+    margin-top: 50px;
+    width: 370px;
+    select{
+        cursor: pointer;    
+    }
+    .form{
+        padding-bottom: 15px;
+    }
+    .select-top-left{
+        
+        padding: 10px 0 10px 10px;
+        border-radius: 5px;
+        width: 100%;
+    }
+    .select-right{
+        padding-left: 0;
+        .select-top-right{
+            padding: 10px 0 10px 10px;
+            border-radius: 5px;
+            width: 100%;
+        }
+    }
+   
+    
+    select:focus{
+        outline: 0;
+    }
+    
+    .input-title{
+        width: 100%;
+        padding: 8px;
+        border-radius: 5px;
+        border: 1px solid;
+        
+    }
+    input:focus{
+        outline: 0;
+    }
+    .categories{
+        padding: 10px 0 10px 10px;
+        width: 100%;
+        border-radius: 5px;
+    }
+    .locations{
+        padding: 10px 0 10px 10px;
+        width: 100%;
+        border-radius: 5px;
+    }
+}
